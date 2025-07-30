@@ -100,10 +100,17 @@ make
 - Accuracy Fashion-MNIST: ~83%
 - Entrenamiento realizado previamente con `train.py`, modelos guardados en:
 
+![WhatsApp Image 2025-07-30 at 1 43 05 PM](https://github.com/user-attachments/assets/6728e017-7465-4dae-bf0f-0a6f1a781f76)
+![WhatsApp Image 2025-07-30 at 1 45 56 PM](https://github.com/user-attachments/assets/b99985a8-e1fb-4537-807c-b44711fb8b56)
+![WhatsApp Image 2025-07-30 at 1 45 56 PM (1)](https://github.com/user-attachments/assets/047fd5ec-c631-4c35-ad01-4bbbac7b0572)
+
+
 ```
-entrenados/results/           # MNIST
+entrenados/results/           # MNIS![Uploading WhatsApp Image 2025-07-30 at 1.43.05 PM.jpeg…]()
+T
 entrenados/results_fashion/  # Fashion-MNIST
 ```
+
 
 Se incluyen estadísticas (`train_stats.csv`, `eval_stats.csv`) y los modelos (`.pt`) entrenados con PyTorch.
 
