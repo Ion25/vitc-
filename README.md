@@ -127,4 +127,4 @@ Se incluyen estadísticas (`train_stats.csv`, `eval_stats.csv`) y los modelos (`
 - Paper: *"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"*
 - Dataset: [MNIST](http://yann.lecun.com/exdb/mnist/) y [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
 
-## RAMA 1
+## RAMA 2
