@@ -128,3 +128,4 @@ Se incluyen estadísticas (`train_stats.csv`, `eval_stats.csv`) y los modelos (`
 - Dataset: [MNIST](http://yann.lecun.com/exdb/mnist/) y [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
 
 ## RAMA 2
+## RAMA 2.1
